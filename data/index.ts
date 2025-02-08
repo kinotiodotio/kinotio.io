@@ -1,11 +1,13 @@
 export const DATA = {
-  name: 'Kinotio',
+  name: "kinotio.io: We're dedicated to creating innovative solutions in SaaS, CLI tools, and libraries.",
   url: 'https://kinotio.io',
-  description: 'crafted with care and dedication.',
+  description:
+    "We're dedicated to creating innovative solutions in SaaS, CLI tools, and libraries.",
   social_url: {
-    github: 'https://github.com/kinotio',
+    github: 'https://github.com/kinotiodotio',
+    bluesky: 'https://bsky.app/profile/kinotio.io',
     discord: 'https://discord.gg/cskvbKQA',
-    linkedin: 'https://linkedin.com/company/kinotio',
+    linkedin: 'https://linkedin.com/company/kinotiodotio',
     x: 'https://x.com/kinotiodotio',
   },
   keywords: [
@@ -18,5 +20,10 @@ export const DATA = {
     'Digital',
     'Software',
     'Application',
+    'SaaS',
+    'CLI',
+    'Library',
+    'Developer',
+    'Community',
   ],
 }
