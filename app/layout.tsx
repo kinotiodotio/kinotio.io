@@ -66,7 +66,7 @@ const RootLayout = ({
         src="https://kinotio.instatus.com/en/6f8e5fad/widget/script.js"
       />
       <body className={cn('min-h-screen', inter.className)}>
-        <div className="min-h-screen bg-gradient-to-br from-black via-[#000] to-[#000] relative overflow-hidden">
+        <div className="min-h-screen bg-gradient-to-br from-black via-[#1E3E62] to-[#FF6500] relative overflow-hidden">
           <div className="absolute inset-0 bg-[url('/noise.png')] opacity-5 mix-blend-soft-light"></div>
           <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black opacity-20"></div>
           <Header />
