@@ -9,21 +9,13 @@ const Home = () => {
       <div className="max-w-6xl space-y-8 relative z-10">
         <div className="space-y-6">
           <h1 className="text-4xl font-medium text-white md:text-5xl lg:text-6xl">
-            Kinotio is a vibrant community of developers building open-source
-            projects. We&apos;re dedicated to creating innovative solutions in
-            SaaS, CLI tools, and libraries—
+            We&apos;re dedicated to creating innovative solutions in SaaS, CLI
+            tools, and libraries—
             <Link
               href={DATA.social_url.github}
               className="underline hover:text-gray-300"
             >
               Discover Our Projects
-            </Link>{' '}
-            and{' '}
-            <Link
-              href={DATA.social_url.discord}
-              className="underline hover:text-gray-300"
-            >
-              Join Our Community
             </Link>
             .
           </h1>
