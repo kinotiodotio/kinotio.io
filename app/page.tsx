@@ -10,7 +10,7 @@ const Home = () => {
         <div className="space-y-6">
           <h1 className="text-4xl font-medium text-white md:text-5xl lg:text-6xl">
             We&apos;re dedicated to creating innovative solutions in SaaS, CLI
-            tools, and libraries—
+            tools, and Libraries—
             <Link
               href={DATA.social_url.github}
               className="underline hover:text-gray-300"
