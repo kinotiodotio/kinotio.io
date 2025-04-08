@@ -58,8 +58,8 @@ const RootLayout = ({
     <html suppressHydrationWarning>
       <Script
         async
-        src="https://umami.kinotio.io/script.js"
-        data-website-id="2d1f4b0f-8ca9-4e53-bc5a-53693fe267f5"
+        src="https://insight.kinotio.io/script.js"
+        data-website-id="f360a477-254b-4a7e-803b-e3915e903a00"
       />
       <Script
         async
