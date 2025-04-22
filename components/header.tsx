@@ -1,8 +1,8 @@
 import Link from 'next/link'
 import { Github } from 'lucide-react'
 
-import { Kinotio } from '@/components/icons/kinotio'
-import { Discord } from '@/components/icons/discord'
+import { Kinotio } from '@/components/icons'
+import { Discord } from '@/components/icons'
 
 import { DATA } from '@/data'
 
