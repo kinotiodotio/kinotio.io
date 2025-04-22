@@ -1,4 +1,4 @@
-import { Heart } from '@/components/icons/heart'
+import { Heart } from '@/components/icons'
 
 export const Footer = () => {
   return (
