@@ -4,7 +4,7 @@
     </picture>
 </div>
 
-The official website for kinotio.io
+The official website for kinotio
 
 To develop it locally, clone this repository and run the following command to start the local dev server:
 
