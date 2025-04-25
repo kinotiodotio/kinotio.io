@@ -1,5 +1,5 @@
 export const DATA = {
-  name: "kinotio.io: We're dedicated to creating innovative solutions in SaaS, CLI tools, and libraries.",
+  name: "kinotio: We're dedicated to creating innovative solutions in SaaS, CLI tools, and libraries.",
   url: 'https://kinotio.io',
   description:
     "We're dedicated to creating innovative solutions in SaaS, CLI tools, and libraries.",
